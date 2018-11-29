@@ -52,7 +52,7 @@ def get_apis():
     return img_urls
 
 # Server configuration
-hostName = 'api-suggestions.herokuapp.com'
+hostName = '0.0.0.0'
 hostPort = 80
 
 template = '''
