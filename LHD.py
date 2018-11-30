@@ -53,7 +53,7 @@ def get_apis():
 
 # Server configuration
 hostName = '0.0.0.0'
-hostPort = 80
+hostPort = 9000
 
 template = '''
 <!DOCTYPE html>
