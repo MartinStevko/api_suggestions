@@ -1,1 +1,1 @@
-web: python LHD.py
+worker: python LHD.py
